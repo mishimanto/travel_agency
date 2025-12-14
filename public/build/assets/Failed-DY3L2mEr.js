@@ -1,0 +1,1 @@
+import{j as e}from"./app-C7rwmfcS.js";/* empty css            */function a(){return e.jsx("div",{className:"p-10 text-center",children:e.jsx("h1",{className:"text-3xl font-bold text-red-600",children:"Payment Failed"})})}export{a as default};

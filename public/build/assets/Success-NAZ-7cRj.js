@@ -1,0 +1,1 @@
+import{j as e}from"./app-C7rwmfcS.js";/* empty css            */function r(){return e.jsxs("div",{className:"p-10 text-center",children:[e.jsx("h1",{className:"text-3xl font-bold text-green-600",children:"Payment Successful!"}),e.jsx("p",{className:"mt-4",children:"Thank you for your payment."})]})}export{r as default};
