@@ -2,8 +2,8 @@
 
 ```bash
 1. Clone the repository:  
-git clone <https://github.com/mishimanto/e-commerce-full>
-cd e-commerce-full
+git clone <https://github.com/mishimanto/travel_agency>
+cd travel_agency
 
 2. Install dependencies:
 composer install
@@ -14,7 +14,7 @@ npm install
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=ecm
+DB_DATABASE=travel_agency
 DB_USERNAME=root
 DB_PASSWORD=
 
